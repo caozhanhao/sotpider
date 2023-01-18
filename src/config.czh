@@ -1,0 +1,11 @@
+config:
+    from_server = ""
+    download_server = ""
+    to_server = ""
+    username = ""
+    password = ""
+    from_page = 1
+    end_page = null
+    search_id = {}
+    timeout = 180
+end

@@ -1,0 +1,3 @@
+[submodule "libczh"]
+	path = libczh
+	url = git@github.com:caozhanhao/libczh.git
